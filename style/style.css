@@ -1,0 +1,104 @@
+* {
+    background-color: #FFFC56;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow: hidden;
+}
+
+.row {
+    margin-bottom: 15px;
+    margin-top: 5%;
+    padding-left: 7%;
+}
+
+.container {
+    padding-top: 140px !important;
+    margin-top: 40px;
+    padding: 5rem .5rem;
+    background-color: #4E9CFF;
+    border: 1px #0067FF solid;
+    border-radius: 3px;
+}
+
+ul {
+    margin-bottom: 0px !important;
+    margin-top: 40px !important;
+    list-style-type: none;
+    padding: 10px;
+    background-color: #FF87D5;
+    border-radius: 3px;
+    border: 1px #FF29B4 solid;
+}
+
+ul li {
+    margin: 6px;
+    padding: 7px;
+    border-radius: 5px;
+    font-size: large;
+    cursor: pointer;
+    color: white;
+    font-size: 14px;
+    background-color: #FF52C2;
+}
+
+ul li:hover {
+    background-color: #FF29B4;
+}
+
+.owl-stage {
+    background-color: #4E9CFF;
+}
+
+.owl-carousel {
+    background-color: #4E9CFF;
+}
+
+.owl-nav {
+    background-color: #4E9CFF;
+}
+
+.fa {
+    background-color: #4E9CFF;
+    color: white;
+}
+
+.fa:hover {
+    background-color: #959595;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    overflow: auto;
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.modal-content {
+    padding: 3px;
+    margin-top: 20px;
+    margin-left: 27%;
+    max-width: 45%;
+    background-color: white;
+    border: 1px solid #888;
+}
+
+.close {
+    background-color: white;
+    margin-bottom: 2px;
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
