@@ -1,5 +1,5 @@
-# a simple Album Gallery web page using HTML/CSS, JS & fake apis example
-## you can click on the menu and get that albums images in the carousel on the right
+# a simple Albums Gallery web page using HTML/CSS, JS & fake apis example
+## you can click on the albums menu and get that albums images in the carousel on the right
 
 <br>
 
