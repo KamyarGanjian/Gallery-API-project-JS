@@ -1,6 +1,6 @@
 # a simple Albums Gallery using HTML/CSS, JS & fake apis example
 ## you can click on the albums menu and get that albums images in the carousel on the right
-### just a simple practice on how to work with api
+### just a simple practice on how to work with api & owlcarousel2
 
 <br>
 
