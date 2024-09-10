@@ -1,4 +1,4 @@
-# how to work with fetch and api's
+# how to work with fetch and API's
 ## HTML/CSS & JavaScript
 ## you can click on the albums menu and get that albums images in the carousel on the right
 ### owlcarousel2
